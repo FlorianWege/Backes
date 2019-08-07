@@ -1,0 +1,4 @@
+Level 2
+main: l m r m 1 2
+f1: m m m
+f2: r m s
